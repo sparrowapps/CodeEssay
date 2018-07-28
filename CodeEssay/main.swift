@@ -8,5 +8,12 @@
 
 import Foundation
 
-print("Hello, World!")
+
+var class_20180721_vitenam_instance = class_20180721_vitenam()
+class_20180721_vitenam_instance.start()
+class_20180721_vitenam_instance.weather()
+class_20180721_vitenam_instance.city()
+class_20180721_vitenam_instance.sight()
+class_20180721_vitenam_instance.activity()
+class_20180721_vitenam_instance.food()
 
