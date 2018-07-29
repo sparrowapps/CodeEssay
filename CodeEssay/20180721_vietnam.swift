@@ -46,18 +46,19 @@ class class_20180721_vitenam {
     }
     
     func city() {
-        print(도시)
+        print("여행한 도시는 \(도시)")
     }
     
     func sight() {
-        print(관광)
+        print("관광한 명소는 \(관광)")
     }
     
     func activity() {
-        print(활동)
+        print("우리의 엑티비티는 \(활동)")
     }
     
     func food() {
+        print("우리가 여행중에 먹은 것은")
         for i in 음식 {
             print("\(i.key) 에서 \(i.value) 먹었다." )
         }
