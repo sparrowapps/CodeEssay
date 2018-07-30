@@ -18,4 +18,20 @@ class Class20180730CarthageOrCocoapods {
         
         print("RECO project add Cartage!!")
     }
+    
+    func carthageUse() {
+        print("install homebrew")
+        print("/usr/bin/ruby -e \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)\"")
+        print("install carthage")
+        print("brew update")
+        print("brew install carhage")
+        print("add into your xcode project")
+        print("vi Cartfile")
+        print("github \"Alamofire/Alamofire\" ~> 4.7 #exmaple alamofire")
+        print("carthage update --platform iOS")
+        print("setting xcode projcet")
+        print("new run script")
+        print("/usr/local/bin/carthage copy-frameworks")
+        print("add lib")
+    }
 }
