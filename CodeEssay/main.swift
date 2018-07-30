@@ -21,3 +21,6 @@ print("\n\n2018/07/29........................")
 var class_20180729_summer_sunday_instance = class_20180729_summer_sunday()
 class_20180729_summer_sunday_instance.temp_message()
 
+print("\n\n2018/07/30........................")
+var class20180730CarthageOrCocoapods = Class20180730CarthageOrCocoapods()
+class20180730CarthageOrCocoapods.decisonDependencyManager()
