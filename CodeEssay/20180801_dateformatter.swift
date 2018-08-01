@@ -15,6 +15,10 @@ class Class20180801 {
         dateFormatter.dateFormat = "yyyyMMdd"
         let dateString = dateFormatter.string(from: nowDate)
         print(dateString)
+        
+        dateFormatter.dateFormat = "HHmmss"
+        let timeString = dateFormatter.string(from: nowDate)
+        print(timeString)
     }
     
     func fromDate(Date date : String) {
