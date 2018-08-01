@@ -33,3 +33,14 @@ var class20180731son2 = Class20180731.minjun("art teacher")
 print("아빠 꿈은 \(class20180731me.dream())")
 print("은준 꿈은 \(class20180731son1.dream())")
 print("민준 꿈은 \(class20180731son2.dream())")
+
+print("\n\n2018/08/01........................")
+var class20180801ins = Class20180801()
+class20180801ins.nowDateStringOut()
+class20180801ins.fromDate(Date: "1977-06-15")
+class20180801ins.fromDate(Date: "2001-08-01")
+class20180801ins.fromDate(Date: "2007-03-10")
+class20180801ins.fromDate(Date: "2008-05-01")
+class20180801ins.fromDate(Date: "2011-01-30")
+
+
