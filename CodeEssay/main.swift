@@ -44,3 +44,13 @@ class20180801ins.fromDate(Date: "2008-05-01")
 class20180801ins.fromDate(Date: "2011-01-30")
 
 
+print("\n\n2018/08/05........................")
+var calss20180805ins = Class20180805_AlongWithGod2()
+print("영화 제목 : \(calss20180805ins.movieName())")
+print("강림역 : \(calss20180805ins.getActor("강림"))")
+print("해원맥역 : \(calss20180805ins.getActor("해원맥"))")
+print("이덕춘역 : \(calss20180805ins.getActor("이덕춘"))")
+print("성주신역 : \(calss20180805ins.getActor("성주신"))")
+print("염라대왕역 : \(calss20180805ins.getActor("염라대왕"))")
+
+

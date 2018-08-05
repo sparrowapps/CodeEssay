@@ -10,6 +10,7 @@
 		F3760B39210C828400FEC1C3 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3760B38210C828400FEC1C3 /* main.swift */; };
 		F3760B40210C837A00FEC1C3 /* 20180721_vietnam.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3760B3F210C837A00FEC1C3 /* 20180721_vietnam.swift */; };
 		F38E390021109E22009E5C4D /* 20180731_eunjun.swift in Sources */ = {isa = PBXBuildFile; fileRef = F38E38FF21109E22009E5C4D /* 20180731_eunjun.swift */; };
+		F39B124E211727A000A08C86 /* 20180805_AlognWithGod2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F39B124D211727A000A08C86 /* 20180805_AlognWithGod2.swift */; };
 		F3CFABD6210ECCCB007D68D5 /* 20180730_dependency_manager.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3CFABD5210ECCCB007D68D5 /* 20180730_dependency_manager.swift */; };
 		F3D085B9210D3B1A002E9D53 /* 20180729_summer_sunday.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3D085B8210D3B1A002E9D53 /* 20180729_summer_sunday.swift */; };
 		F3DA01BF21119950009E414B /* 20180801_dateformatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3DA01BE21119950009E414B /* 20180801_dateformatter.swift */; };
@@ -32,6 +33,7 @@
 		F3760B38210C828400FEC1C3 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F3760B3F210C837A00FEC1C3 /* 20180721_vietnam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20180721_vietnam.swift; sourceTree = "<group>"; };
 		F38E38FF21109E22009E5C4D /* 20180731_eunjun.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20180731_eunjun.swift; sourceTree = "<group>"; };
+		F39B124D211727A000A08C86 /* 20180805_AlognWithGod2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20180805_AlognWithGod2.swift; sourceTree = "<group>"; };
 		F3CFABD5210ECCCB007D68D5 /* 20180730_dependency_manager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20180730_dependency_manager.swift; sourceTree = "<group>"; };
 		F3D085B8210D3B1A002E9D53 /* 20180729_summer_sunday.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20180729_summer_sunday.swift; sourceTree = "<group>"; };
 		F3DA01BE21119950009E414B /* 20180801_dateformatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 20180801_dateformatter.swift; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 				F3CFABD5210ECCCB007D68D5 /* 20180730_dependency_manager.swift */,
 				F38E38FF21109E22009E5C4D /* 20180731_eunjun.swift */,
 				F3DA01BE21119950009E414B /* 20180801_dateformatter.swift */,
+				F39B124D211727A000A08C86 /* 20180805_AlognWithGod2.swift */,
 			);
 			path = CodeEssay;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			files = (
 				F3CFABD6210ECCCB007D68D5 /* 20180730_dependency_manager.swift in Sources */,
 				F3D085B9210D3B1A002E9D53 /* 20180729_summer_sunday.swift in Sources */,
+				F39B124E211727A000A08C86 /* 20180805_AlognWithGod2.swift in Sources */,
 				F3760B40210C837A00FEC1C3 /* 20180721_vietnam.swift in Sources */,
 				F38E390021109E22009E5C4D /* 20180731_eunjun.swift in Sources */,
 				F3DA01BF21119950009E414B /* 20180801_dateformatter.swift in Sources */,
